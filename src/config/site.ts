@@ -1,6 +1,6 @@
 export const siteConfig = {
     name: "James Summersby",
-    headline: "Software Development Student / Web Application Developer",
+    headline: "Senior Software Engineer @ Jaguar Land Rover",
     bio: "Hi there, I'm James 👋",
     links: {
         github: "https://github.com/Summersby95",
@@ -12,4 +12,4 @@ export const siteConfig = {
         { name: "Projects", href: "#projects" },
         { name: "Contact", href: "#contact" },
     ]
-}
+}   
